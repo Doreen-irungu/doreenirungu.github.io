@@ -1,5 +1,13 @@
-#include <iostream>
-#include <cmath>
+/*Area of a cylinder
+Author:
+Reg no:
+Date:
+Version 1:
+*/
+
+
+#include <iostream>// cout , cin 
+#include <cmath>// pi 
 
 using namespace std;
 
