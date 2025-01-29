@@ -1,7 +1,7 @@
 /*Area of a cylinder
-Author:
-Reg no:
-Date:
+Author: DOREEN IRUNGU
+Reg no:BSE-05-0153/2024
+Date:24/01/2025
 Version 1:
 */
 
