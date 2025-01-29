@@ -1,4 +1,11 @@
-#include <iostream>
+/*
+    Author: DOREEN IRUNGU
+    Reg no: BSE-05-0153/2024
+    Date: 29/01/2025 
+    version 1:
+    */
+
+#include <iostream> cout , cin 
 using namespace std;
 
 // Function to calculate overdue fine
