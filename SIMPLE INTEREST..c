@@ -1,8 +1,9 @@
+/*
 //C predifined functions/*
-C predefined functions Author:DOREEN IRUNGU
-Reg No:BSE-05-0153/2024
-Date:10/02/2025
-Version 1 *
+Author: Doreen Irungu 
+egistration number:BSE-05-0153/2024
+Date:16/02/2025
+*/
 
 #include <iostream>
 #include <cmath>
