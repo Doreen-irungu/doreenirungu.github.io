@@ -1,3 +1,10 @@
+/*
+Author: Doreen Irungu 
+egistration number:BSE-05-0153/2024
+Date:16/02/2025
+*/
+
+
 #include <iostream>
 #include <string>
 
